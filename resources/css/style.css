@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 300;
+  max-width: 700px;
+  margin: 0 auto 20px auto;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top: 60px;
+}
+
+a {
+  color: #4dd0e1;
+}
+
+video {
+  display: block;
+  margin: 40px auto;
+  border-radius: 20px;
+}
+
+footer {
+  margin-top: 60px;
+  font-size: 14px;
+  color: gray;
+}
